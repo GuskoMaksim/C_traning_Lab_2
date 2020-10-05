@@ -1,0 +1,1 @@
+#include "Strochka.h"
